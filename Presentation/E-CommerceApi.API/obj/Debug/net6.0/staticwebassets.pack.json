@@ -1,0 +1,73 @@
+{
+  "Files": [
+    {
+      "Id": "D:\\genel-yedek\\e-commerce_client\\E-CommerceApi\\Presentation\\E-CommerceApi.API\\wwwroot\\files\\ekran.png",
+      "PackagePath": "staticwebassets\\files\\ekran.png"
+    },
+    {
+      "Id": "D:\\genel-yedek\\e-commerce_client\\E-CommerceApi\\Presentation\\E-CommerceApi.API\\wwwroot\\productImg\\deneme-2.png",
+      "PackagePath": "staticwebassets\\productImg\\deneme-2.png"
+    },
+    {
+      "Id": "D:\\genel-yedek\\e-commerce_client\\E-CommerceApi\\Presentation\\E-CommerceApi.API\\wwwroot\\productImg\\deneme-3.png",
+      "PackagePath": "staticwebassets\\productImg\\deneme-3.png"
+    },
+    {
+      "Id": "D:\\genel-yedek\\e-commerce_client\\E-CommerceApi\\Presentation\\E-CommerceApi.API\\wwwroot\\productImg\\deneme-4.png",
+      "PackagePath": "staticwebassets\\productImg\\deneme-4.png"
+    },
+    {
+      "Id": "D:\\genel-yedek\\e-commerce_client\\E-CommerceApi\\Presentation\\E-CommerceApi.API\\wwwroot\\productImg\\deneme.png",
+      "PackagePath": "staticwebassets\\productImg\\deneme.png"
+    },
+    {
+      "Id": "D:\\genel-yedek\\e-commerce_client\\E-CommerceApi\\Presentation\\E-CommerceApi.API\\wwwroot\\productImg\\ekranalintii.png",
+      "PackagePath": "staticwebassets\\productImg\\ekranalintii.png"
+    },
+    {
+      "Id": "D:\\genel-yedek\\e-commerce_client\\E-CommerceApi\\Presentation\\E-CommerceApi.API\\wwwroot\\productImg\\ekranalintisi.png",
+      "PackagePath": "staticwebassets\\productImg\\ekranalintisi.png"
+    },
+    {
+      "Id": "D:\\genel-yedek\\e-commerce_client\\E-CommerceApi\\Presentation\\E-CommerceApi.API\\wwwroot\\resource\\ProductImg\\0,5672548415207216.png",
+      "PackagePath": "staticwebassets\\resource\\ProductImg\\0,5672548415207216.png"
+    },
+    {
+      "Id": "D:\\genel-yedek\\e-commerce_client\\E-CommerceApi\\Presentation\\E-CommerceApi.API\\wwwroot\\resource\\files\\deneme.png",
+      "PackagePath": "staticwebassets\\resource\\files\\deneme.png"
+    },
+    {
+      "Id": "D:\\genel-yedek\\e-commerce_client\\E-CommerceApi\\Presentation\\E-CommerceApi.API\\wwwroot\\resource\\files\\ekran.png",
+      "PackagePath": "staticwebassets\\resource\\files\\ekran.png"
+    },
+    {
+      "Id": "D:\\genel-yedek\\e-commerce_client\\E-CommerceApi\\Presentation\\E-CommerceApi.API\\wwwroot\\resource\\files\\ekranalintisi.png",
+      "PackagePath": "staticwebassets\\resource\\files\\ekranalintisi.png"
+    },
+    {
+      "Id": "D:\\genel-yedek\\e-commerce_client\\E-CommerceApi\\Presentation\\E-CommerceApi.API\\wwwroot\\resource\\files\\file",
+      "PackagePath": "staticwebassets\\resource\\files"
+    },
+    {
+      "Id": "D:\\genel-yedek\\e-commerce_client\\E-CommerceApi\\Presentation\\E-CommerceApi.API\\wwwroot\\resource\\files\\file2",
+      "PackagePath": "staticwebassets\\resource\\files"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.E-CommerceApi.API.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.build.E-CommerceApi.API.props",
+      "PackagePath": "build\\E-CommerceApi.API.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildMultiTargeting.E-CommerceApi.API.props",
+      "PackagePath": "buildMultiTargeting\\E-CommerceApi.API.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildTransitive.E-CommerceApi.API.props",
+      "PackagePath": "buildTransitive\\E-CommerceApi.API.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

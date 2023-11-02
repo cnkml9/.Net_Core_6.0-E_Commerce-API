@@ -1,0 +1,17 @@
+D:\genel-yedek\e-commerce_client\E-CommerceApi\Infrastructure\E-CommerApi.SignalR\bin\Debug\net6.0\E-CommerApi.SignalR.deps.json
+D:\genel-yedek\e-commerce_client\E-CommerceApi\Infrastructure\E-CommerApi.SignalR\bin\Debug\net6.0\E-CommerApi.SignalR.dll
+D:\genel-yedek\e-commerce_client\E-CommerceApi\Infrastructure\E-CommerApi.SignalR\bin\Debug\net6.0\E-CommerApi.SignalR.pdb
+D:\genel-yedek\e-commerce_client\E-CommerceApi\Infrastructure\E-CommerApi.SignalR\obj\Debug\net6.0\E-CommerApi.SignalR.GeneratedMSBuildEditorConfig.editorconfig
+D:\genel-yedek\e-commerce_client\E-CommerceApi\Infrastructure\E-CommerApi.SignalR\obj\Debug\net6.0\E-CommerApi.SignalR.AssemblyInfoInputs.cache
+D:\genel-yedek\e-commerce_client\E-CommerceApi\Infrastructure\E-CommerApi.SignalR\obj\Debug\net6.0\E-CommerApi.SignalR.AssemblyInfo.cs
+D:\genel-yedek\e-commerce_client\E-CommerceApi\Infrastructure\E-CommerApi.SignalR\obj\Debug\net6.0\E-CommerApi.SignalR.csproj.CoreCompileInputs.cache
+D:\genel-yedek\e-commerce_client\E-CommerceApi\Infrastructure\E-CommerApi.SignalR\obj\Debug\net6.0\E-CommerApi.SignalR.dll
+D:\genel-yedek\e-commerce_client\E-CommerceApi\Infrastructure\E-CommerApi.SignalR\obj\Debug\net6.0\refint\E-CommerApi.SignalR.dll
+D:\genel-yedek\e-commerce_client\E-CommerceApi\Infrastructure\E-CommerApi.SignalR\obj\Debug\net6.0\E-CommerApi.SignalR.pdb
+D:\genel-yedek\e-commerce_client\E-CommerceApi\Infrastructure\E-CommerApi.SignalR\obj\Debug\net6.0\ref\E-CommerApi.SignalR.dll
+D:\genel-yedek\e-commerce_client\E-CommerceApi\Infrastructure\E-CommerApi.SignalR\obj\Debug\net6.0\E-CommerApi.SignalR.csproj.AssemblyReference.cache
+D:\genel-yedek\e-commerce_client\E-CommerceApi\Infrastructure\E-CommerApi.SignalR\bin\Debug\net6.0\E-CommerceApi.Application.dll
+D:\genel-yedek\e-commerce_client\E-CommerceApi\Infrastructure\E-CommerApi.SignalR\bin\Debug\net6.0\E-CommerceApi.Domain.dll
+D:\genel-yedek\e-commerce_client\E-CommerceApi\Infrastructure\E-CommerApi.SignalR\bin\Debug\net6.0\E-CommerceApi.Application.pdb
+D:\genel-yedek\e-commerce_client\E-CommerceApi\Infrastructure\E-CommerApi.SignalR\bin\Debug\net6.0\E-CommerceApi.Domain.pdb
+D:\genel-yedek\e-commerce_client\E-CommerceApi\Infrastructure\E-CommerApi.SignalR\obj\Debug\net6.0\E-CommerApi.SignalR.csproj.CopyComplete
